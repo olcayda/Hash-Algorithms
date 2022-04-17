@@ -1,1 +1,1 @@
-Üniversite stajım sırasında yapmış olduğum hash algoritmalarının eşit koşullarda uyguladım ve sonuçların karşılaştırmalarını çıkardım. 
+Üniversite stajım sırasında yapmış olduğum hash algoritmaları uygulamalarını eşit koşullarda uyguladım ve algoritmaların performans testlerini yaptım. Yaptığım testler sonucunda algoritmalar arasında performans karşılaştırmaları yaptım ve grafik halinde gösterdim.
